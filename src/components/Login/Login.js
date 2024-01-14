@@ -1,6 +1,6 @@
-import "./App.css";
+import "./Login.css";
 import { useState } from "react";
-import { FetchCall } from "./FetchCall";
+import { FetchCall } from "../../apis/FetchCall";
 
 const Login = ({ data, onLogin }) => {
   const [loggedIn, setLoggedIn] = useState(false);

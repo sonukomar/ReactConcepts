@@ -1,9 +1,9 @@
 import "./App.css";
 import { useEffect, Suspense, useState, lazy } from "react";
-import { FetchCall } from "./FetchCall";
-import useUserDetails from "./useUserDetails";
-import LoginContext from "./LoginContext";
-import Header from "./Header";
+import { FetchCall } from "./apis/FetchCall";
+import useUserDetails from "./customHooks/useUserDetails";
+import LoginContext from "./contexts/LoginContext";
+import Header from "./components/Header/Header";
 
 function App() {
   const data = useUserDetails();
@@ -14,8 +14,8 @@ function App() {
   });
 
   // Importing components when it is required
-  const Welcome = lazy(() => import("./Welcome"));
-  const Login = lazy(() => import("./Login"));
+  const Welcome = lazy(() => import("./components/Welcome/Welcome"));
+  const Login = lazy(() => import("./components/Login/Login"));
   const Loading = () => {
     return <h1>Loading...</h1>;
   };

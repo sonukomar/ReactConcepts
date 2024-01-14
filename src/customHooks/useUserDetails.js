@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { FetchCall } from "./FetchCall";
+import { FetchCall } from "../apis/FetchCall";
 
 const useUserDetails = () => {
   const [details, setDetails] = useState({});

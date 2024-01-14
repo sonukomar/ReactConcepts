@@ -1,0 +1,26 @@
+.login {
+  background: #dabaa042;
+  width: 32%;
+  padding: 2em;
+  border-radius: 1em;
+  margin: 0 auto;
+  box-shadow: 6px 5px 4px #bdbdbd;
+}
+
+.error {
+  color: red;
+}
+.login-main {
+  background-image: url("https://qph.cf2.quoracdn.net/main-qimg-e02ebce1ef754aba55f15bf3d5a489cf-lq");
+  background-size: cover;
+  /* height: 900px; */
+  background-position-y: center;
+  aspect-ratio: 2;
+}
+
+.login-screen {
+  margin-top: 17em;
+  position: absolute;
+  width: 97em;
+  margin-left: 26em;
+}

@@ -1,6 +1,6 @@
 import "./Header.css";
 import { useContext } from "react";
-import LoginContext from "./LoginContext";
+import LoginContext from "../../contexts/LoginContext";
 
 const Header = () => {
   const { isLoggedIn, user } = useContext(LoginContext);

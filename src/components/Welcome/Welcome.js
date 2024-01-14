@@ -1,8 +1,8 @@
-import "./App.css";
+import "./Welcome.css";
 import { useContext, useEffect, useState } from "react";
-import Books from "./Books";
-import { FetchCall } from "./FetchCall";
-import LoginContext from "./LoginContext";
+import Books from "../Books/Books";
+import { FetchCall } from "../../apis/FetchCall";
+import LoginContext from "../../contexts/LoginContext";
 
 const list = [
   "Harry Potter and the Philosopher",

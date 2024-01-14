@@ -1,0 +1,26 @@
+.header {
+  width: 100%;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  /* background: linear-gradient(60deg, gray 0 47%, rgb(155, 173, 155) 49% 67%); */
+  background-image: linear-gradient(rgb(123, 140, 170), rgb(241, 241, 241));
+  min-height: 5em;
+}
+
+.half {
+  width: 24%;
+  display: inline-block;
+}
+.half a {
+  float: inline-end;
+}
+
+h2 {
+  color: #863b00;
+}
+
+.brand {
+  width: 41px;
+  height: 18px;
+}
