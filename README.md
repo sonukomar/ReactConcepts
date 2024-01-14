@@ -1,12 +1,19 @@
-# Getting Started with Create React App
+# React conepts
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repo's purpose is to implement all major react concepts which are following:
+  1. Throttling
+  2. Custom Hook
+  3. Server side events
+  4. useContext Hook
+  5. useState Hook
+  6. useEffect Hook
 
-## Available Scripts
+## Steps to run
 
-In the project directory, you can run:
-
-### `npm start`
+1. Clone this repo.
+2. run ### `npm start`
+3. cd mock-server
+4. node index.js
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
