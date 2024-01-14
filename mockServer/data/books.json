@@ -1,0 +1,85 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year_published": 1960,
+      "genre": "Fiction",
+      "rating": 9.2,
+      "review": "This is a great book about race, morality, and growing up."
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "year_published": 1949,
+      "genre": "Dystopian",
+      "rating": 9.1,
+      "review": "This book provides a glimpse into a world where freedom is non-existent and human nature is corrupted."
+    },
+    {
+      "id": 3,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "year_published": 1951,
+      "genre": "Fiction",
+      "rating": 8.8,
+      "review": "A classic novel that follows the story of a young boy as he navigates through adolescence and society."
+    },
+    {
+      "id": 4,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "year_published": 1997,
+      "genre": "Fantasy",
+      "rating": 9.6,
+      "review": "This magical series follows the story of a young wizard who discovers his magical heritage on his eleventh birthday."
+    },
+    {
+      "id": 5,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "year_published": 1937,
+      "genre": "Fantasy",
+      "rating": 9.0,
+      "review": "A fantasy adventure about a dwarf and his fourteen companions who set out to the Lonely Mountain to retrieve a treasure from the dragon Smaug."
+    },
+    {
+      "id": 6,
+      "title": "Outliers: The Story of Success",
+      "author": "Malcolm Gladwell",
+      "year_published": 2008,
+      "genre": "Non-fiction",
+      "rating": 8.7,
+      "review": "A fascinating book that explores the factors behind success, both in the realm of individuals and in societies."
+    },
+    {
+      "id": 7,
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "year_published": 2011,
+      "genre": "Non-fiction",
+      "rating": 9.0,
+      "review": "An enlightening exploration of human history and the future of humankind."
+    },
+    {
+      "id": 8,
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "year_published": 2011,
+      "genre": "Biography",
+      "rating": 9.2,
+      "review": "A captivating biography of the late CEO of Apple, Steve Jobs."
+    },
+    {
+      "id": 9,
+      "title": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+      "author": "Ashlee Vance",
+      "year_published": 2015,
+      "genre": "Biography",
+      "rating": 9.1,
+      "review": "An insightful biography of Elon Musk, the visionary entrepreneur behind companies like Tesla and SpaceX."
+    }
+  ]
+}
