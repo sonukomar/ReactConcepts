@@ -1,12 +1,14 @@
 # React conepts
 
 This repo's purpose is to implement all major react concepts which are following:
-  1. Throttling
-  2. Custom Hook
-  3. Server side events
-  4. useContext Hook
-  5. useState Hook
-  6. useEffect Hook
+
+1. Throttling
+2. Custom Hook
+3. Server side events
+4. useContext Hook
+5. useState Hook
+6. useEffect Hook
+7. React lazy laoding concept
 
 ## Steps to run
 

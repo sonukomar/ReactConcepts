@@ -26,6 +26,10 @@ h2 {
   display: inline-block;
   width: 15%;
 }
+.col-md-3 {
+  display: inline-block;
+  width: 20%;
+}
 
 .col-md-8 {
   display: inline-block;
@@ -46,4 +50,8 @@ h2 {
 .col-md-4 {
   display: inline-block;
   width: 25%;
+}
+.col-md-12 {
+  display: inline-block;
+  width: 100%;
 }

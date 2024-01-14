@@ -1,3 +1,4 @@
+import "../../App.css";
 import "./Header.css";
 import { useContext } from "react";
 import LoginContext from "../../contexts/LoginContext";

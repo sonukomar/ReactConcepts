@@ -1,3 +1,4 @@
+import "../../App.css";
 import "./Welcome.css";
 import { useContext, useEffect, useState } from "react";
 import Books from "../Books/Books";

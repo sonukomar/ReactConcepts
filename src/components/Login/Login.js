@@ -1,3 +1,4 @@
+import "../../App.css";
 import "./Login.css";
 import { useState } from "react";
 import { FetchCall } from "../../apis/FetchCall";

@@ -1,0 +1,13 @@
+.books {
+  padding: 0.3em;
+  margin-left: 12px;
+  border-radius: 1em;
+  box-shadow: 1px 0px 1px #444343;
+  background: #f2f1f1;
+  margin-top: 17px;
+  min-height: 400px;
+}
+
+.bookContent {
+  display: block;
+}
